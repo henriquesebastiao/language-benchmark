@@ -38,7 +38,7 @@ Os testes foram executados em um hardware com as seguintes especificações:
 
 Scripts para cada linguagem e um arquivo CSV que guarda os resultados com o tempo de execução.
 
-> [! TIP]
+> [!TIP]
 > Se você também é curioso e quer adicionar mais linguagens ou otimizar os códigos, sinta-se à vontade para fazer um fork e abrir um pull request!
 
 ### Execute Você Mesmo
