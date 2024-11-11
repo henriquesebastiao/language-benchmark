@@ -1,8 +1,9 @@
 Language,Time (seconds)
-Python,3.659015417098999
-Go,0.25
-Java,0.148261241
+C,0.15
+Rust,0.15
+Java,0.15
 JavaScript,0.178
-C,0.28
+Go,0.25
+Python,0.27634143829345703
+Python,3.659015417098999
 Ruby,8.66831726
-Rust,0.69

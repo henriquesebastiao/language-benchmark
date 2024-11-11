@@ -11,6 +11,7 @@ Este projeto foi feito por pura curiosidade! Gostaria de saber como diferentes l
 * Go v1.23.2
 * Ruby v3.3.5
 * Rust (rustv v1.82.0)
+* PyPy v3.10-7.3.17
 
 ### Hardware
 
@@ -24,15 +25,16 @@ Os testes foram executados em um hardware com as seguintes especificações:
 
 ### Resultados 🏅
 
-| Linguagem | Tempo (s) |
+| Linguagem ou Implementação | Tempo (s) |
 |-|-|
+|C|0.15|
+|Rust|0.15|
 |Java|0.15|
 |JavaScript|0.18|
 |Go|0.25|
-|C|0.28|
-|Rust|0.69|
+|Python PyPy|0.27|
 |Python|3.66|
-|Ruby|8.67|
+|Ruby|8.60|
 
 ### O que você vai encontrar aqui
 
